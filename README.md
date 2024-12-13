@@ -10,7 +10,7 @@ Estudante e desenvolvedor com objetivo criar soluções inovadoras utilizando as
 
 ### Formação Acadêmica
 
-- **IFPB - Campus Esperança** - Tecnologo em Analise e Desenvolvimento de Sistemas - **em andamento**
+- **IFPB - Campus Esperança** - Tecnólogo em Análise e Desenvolvimento de Sistemas - **em andamento**
 
 - **IFPB - Campus Esperança** - Técnico em Informática
   - Projetos relevantes:
