@@ -1,4 +1,4 @@
-# Olá, sou o José Arthur!
+# Olá, sou José Arthur!
 
 <p align="center">
   <strong>Programador | Curioso | Entusiasta de Novas Tecnologias</strong>
@@ -42,18 +42,21 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoseArthurAlmeida&theme=react&show_icons=true&count_private=true&hide_rank=true&bg_color=00000000&"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArthurAlmeida&theme=react&show_icons=true&layout=compact&bg_color=00000000"/>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap;">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=JoseArthurAlmeida&theme=react&show_icons=true&count_private=true&hide_rank=true&bg_color=00000000&"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArthurAlmeida&theme=react&show_icons=true&layout=compact&bg_color=00000000"/>
+</div>
 
 ---
 
-### 🎓 Formação Acadêmica
+### 🎓 Formação Acadêmica e Sistemas Desenvolvido no Curso
 
 -   **Tecnólogo em Análise e Desenvolvimento de Sistemas**
-
     -   _IFPB - Campus Esperança_ (em andamento)
+    -   **Projeto para a Disciplina de POO:** _Loja Virtual com JavaFX_
+        - Desenvolvi telas e funcionalidades do sistema.
+        - Este foi essencial para aplicar práticas de Orientação a Objetos além de Padrões de Projeto.
+        🔗 **Repositório:** [Link para o projeto](https://github.com/JoseArthurAlmeida/ProjetoPOO)
 
 -   **Técnico em Informática**
     -   _IFPB - Campus Esperança_ (concluído)
