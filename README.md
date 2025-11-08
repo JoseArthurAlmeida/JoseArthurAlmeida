@@ -44,7 +44,6 @@
 
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=JoseArthurAlmeida&theme=react&show_icons=true&count_private=true&hide_rank=true&bg_color=00000000&"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseArthurAlmeida&theme=react&show_icons=true&layout=compact&bg_color=00000000"/>
 </div>
 
 ---
