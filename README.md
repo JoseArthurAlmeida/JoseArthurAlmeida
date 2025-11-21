@@ -52,7 +52,7 @@
 ### 🎓 Formação Acadêmica e Sistemas Desenvolvido no Curso
 
 -   **Tecnólogo em Análise e Desenvolvimento de Sistemas**
-    -   _IFPB - Campus Esperança_ (em andamento)
+    -   _IFPB - Campus Esperança_ (concluído)
     -   **Projeto para a Disciplina de POO:** _Loja Virtual com JavaFX_
         - Desenvolvi telas e funcionalidades do sistema.
         - Este foi essencial para aplicar práticas de Orientação a Objetos além de Padrões de Projeto.
